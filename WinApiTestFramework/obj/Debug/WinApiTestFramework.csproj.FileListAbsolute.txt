@@ -1,0 +1,6 @@
+C:\Users\Lampa\RiderProjects\WinApiTestFramework\WinApiTestFramework\bin\Debug\WinApiTestFramework.exe
+C:\Users\Lampa\RiderProjects\WinApiTestFramework\WinApiTestFramework\bin\Debug\WinApiTestFramework.pdb
+C:\Users\Lampa\RiderProjects\WinApiTestFramework\WinApiTestFramework\obj\Debug\WinApiTestFramework.csprojAssemblyReference.cache
+C:\Users\Lampa\RiderProjects\WinApiTestFramework\WinApiTestFramework\obj\Debug\WinApiTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Lampa\RiderProjects\WinApiTestFramework\WinApiTestFramework\obj\Debug\WinApiTestFramework.exe
+C:\Users\Lampa\RiderProjects\WinApiTestFramework\WinApiTestFramework\obj\Debug\WinApiTestFramework.pdb
